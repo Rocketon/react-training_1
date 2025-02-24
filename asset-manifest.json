@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/rocketon/static/css/main.88d434d8.css",
-    "main.js": "/rocketon/static/js/main.6ff1b52c.js",
-    "index.html": "/rocketon/index.html",
-    "main.88d434d8.css.map": "/rocketon/static/css/main.88d434d8.css.map",
-    "main.6ff1b52c.js.map": "/rocketon/static/js/main.6ff1b52c.js.map"
+    "main.css": "/react-training_1/static/css/main.88d434d8.css",
+    "main.js": "/react-training_1/static/js/main.6ff1b52c.js",
+    "index.html": "/react-training_1/index.html",
+    "main.88d434d8.css.map": "/react-training_1/static/css/main.88d434d8.css.map",
+    "main.6ff1b52c.js.map": "/react-training_1/static/js/main.6ff1b52c.js.map"
   },
   "entrypoints": [
     "static/css/main.88d434d8.css",
